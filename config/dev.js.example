@@ -1,0 +1,8 @@
+module.exports = {
+  webRoot: "http://localhost:3000",
+  mongoURI: "FILL_MONGO_DB_URI_HERE",
+  secret: "FILL_A_SECRET_HERE",
+  sendGridUserName: "FILL_YOUR_SENDGRID_USERNAME_HERE",
+  sendGridPassword: "FILL_YOUR_SENDGRID_PASSWORD_HERE",
+  serviceMail: "FILL_A_SERVICE_MAIL_HERE" 
+};
